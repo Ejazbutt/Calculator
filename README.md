@@ -1,3 +1,4 @@
 # Calculator
 My first project
-Ejaz ahmed butt
+<br>
+Author-Ejaz ahmed butt
